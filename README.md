@@ -1,7 +1,6 @@
 # Chat-app-firebase
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is test of Ember 2.0 (CLI) along with the emberfire addon (firebase adapter). This little app is basically a small chat app where on can create messages and see them reflected back. 
 
 ## Prerequisites
 
